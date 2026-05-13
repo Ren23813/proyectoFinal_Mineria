@@ -11,6 +11,10 @@
 ## 🎯 Objetivo Principal del Proyecto
 Convertir un conjunto de datos real, ambiguo y no estructurado de indicadores socioeconómicos de CEPAL en un problema bien definido de Data Mining. El dataset resultante está diseñado para el entrenamiento de algoritmos predictivos que analicen la **adopción y evolución del uso de internet en Latinoamérica** a través del tiempo, segmentado por rango de edad.
 
+### Requisitos:
+Para correr la fase 3, se requiere de una librería: `pip install prophet`. Es un modelo para análisis de series de tiempo.
+También Sklearn :D
+
 ---
 
 ## 🗂️ Fase 1: Exploración profunda y Formulación (Semana 1)
